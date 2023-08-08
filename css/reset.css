@@ -1,0 +1,49 @@
+@charset "uft-8";
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+ul,
+ol,
+li {
+    list-style: none;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+    display: block;
+}
+
+h1 {
+    font-size: 30px;
+}
+
+h2 {
+    font-size: 20px;
+}
+
+h3 {
+    font-size: 18px;
+}
+
+address {
+    font-style: normal;
+}
+
+p {
+    font-size: 18px;
+}
+
+header,
+main,
+aside,
+footer,
+article,
+nav,
+section {
+    display: block;
+}
